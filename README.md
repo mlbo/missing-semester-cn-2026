@@ -2,7 +2,9 @@
 
 The Missing Semester of Your CS Education 英文课程网站在[这里](https://missing.csail.mit.edu/)！
 
-这是[中文站点](https://missing-semester-cn.github.io)(<span style="float:right"><img src = "https://img.shields.io/badge/最近一次与英文版同步-2021--04--24-green"></span>)
+这是[中文站点](https://missing-semester-cn.github.io)(<span style="float:right"><img src = "https://img.shields.io/badge/最近一次与英文版同步-2026--03--14-green"></span>)
+
+> **说明**：本项目为个人学习使用，2026 年课程内容为机器翻译。请关注 [https://missing-semester-cn.github.io/](https://missing-semester-cn.github.io/) 获取官方中文版最新动态。
 
 
 欢迎为本项目做出贡献！如果您要编辑添加内容，请提出 issue 或提交 pull request。
@@ -27,19 +29,19 @@ bundle exec jekyll serve -w
 
 
 
-请在[sync-offical-2026](https://github.com/missing-semester-cn/missing-semester-cn.github.io/tree/sync-offical-2026)分支的README中认领任务并提交翻译。
+请在[master](https://github.com/mlbo/missing-semester-cn-2026/tree/master)分支的README中认领任务并提交翻译。
 
 | 讲义 | 翻译者 | 状态 |
 | ---- | ---- | ---- |
-| [agentic-coding.md](_2026/agentic-coding.md) | [@Lingfeng AI](https://github.com/hanxiaomax) | 待翻译 |
-| [beyond-code.md](_2026/beyond-code.md) | 待分配 | 待翻译 |
-| [code-quality.md](_2026/code-quality.md) | 待分配 | 待翻译 |
-| [command-line-environment.md](_2026/command-line-environment.md) | 待分配 | 待翻译 |
-| [course-shell.md](_2026/course-shell.md) | 待分配 | 待翻译 |
-| [debugging-profiling.md](_2026/debugging-profiling.md) | 待分配 | 待翻译 |
-| [development-environment.md](_2026/development-environment.md) | 待分配 | 待翻译 |
-| [shipping-code.md](_2026/shipping-code.md) | 待分配 | 待翻译 |
-| [version-control.md](_2026/version-control.md) | 待分配 | 待翻译 |
+| [agentic-coding.md](_2026/agentic-coding.md) | Claude Code | 完成 |
+| [beyond-code.md](_2026/beyond-code.md) | Claude Code | 完成 |
+| [code-quality.md](_2026/code-quality.md) | Claude Code | 完成 |
+| [command-line-environment.md](_2026/command-line-environment.md) | Claude Code | 完成 |
+| [course-shell.md](_2026/course-shell.md) | Claude Code | 完成 |
+| [debugging-profiling.md](_2026/debugging-profiling.md) | Claude Code | 完成 |
+| [development-environment.md](_2026/development-environment.md) | Claude Code | 完成 |
+| [shipping-code.md](_2026/shipping-code.md) | Claude Code | 完成 |
+| [version-control.md](_2026/version-control.md) | Claude Code | 完成 |
 
 -----------------
 

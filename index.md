@@ -93,7 +93,7 @@ YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57
 ---
 
 <div class="small center">
-<p><a href="https://github.com/missing-semester-cn/missing-semester-cn">Source code</a>.</p>
+<p><a href="https://github.com/mlbo/missing-semester-cn-2026">Source code</a>.</p>
 <p>Licensed under CC BY-NC-SA.</p>
 <p>See <a href="/license">here</a> for contribution &amp; translation guidelines.</p>
 </div>
