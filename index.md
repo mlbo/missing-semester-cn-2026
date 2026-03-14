@@ -1,6 +1,8 @@
 ---
 layout: page
 title: 计算机教育中缺失的一课
+subtitle: "2026"
+nositetitle: true
 ---
 
 # The Missing Semester of Your CS Education 中文版
@@ -11,7 +13,7 @@ title: 计算机教育中缺失的一课
 
 精通这些工具不仅可以帮助您更快的使用工具完成任务，并且可以帮助您解决在之前看来似乎无比复杂的问题。
 
-关于 [开设此课程的动机](/about/)。
+关于 [开设此课程的动机]({{ site.baseurl }}/about/)。
 
 {% comment %}
 
@@ -29,9 +31,9 @@ Sign up for the IAP 2020 class by filling out this [registration form](https://f
         <li>
         <strong>{{ lecture.date | date: '%-m/%d' }}</strong>:
         {% if lecture.ready%}
-            <a href="{{ lecture.url }}">{{ lecture.title }}</a>
+            <a href="{{ site.baseurl }}{{ lecture.url }}">{{ lecture.title }}</a>
         {% else %}
-             <a href="{{ lecture.url }}">{{ lecture.title }}</a>
+             <a href="{{ site.baseurl }}{{ lecture.url }}">{{ lecture.title }}</a>
         {% endif %}
         </li>
     {% endif %}
@@ -85,5 +87,5 @@ YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57
 <div class="small center">
 <p><a href="https://github.com/mlbo/missing-semester-cn-2026">Source code</a>.</p>
 <p>Licensed under CC BY-NC-SA.</p>
-<p>See <a href="/license">here</a> for contribution &amp; translation guidelines.</p>
+<p>See <a href="{{ site.baseurl }}/license/">here</a> for contribution &amp; translation guidelines.</p>
 </div>
