@@ -14,7 +14,7 @@ phony: true
       <li>
         <strong>{{ lecture.date | date: '%-m/%-d' }}</strong>:
         {% if lecture.ready %}
-          <a href="{{ lecture.url }}">{{ lecture.title }}</a>
+          <a href="{{ site.baseurl }}{{ lecture.url }}">{{ lecture.title }}</a>
         {% elsif lecture.noclass %}
           {{ lecture.title }} [无课程]
         {% else %}
