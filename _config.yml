@@ -1,6 +1,7 @@
 # Setup
 title: 'the missing semester of your cs education'
-url: https://mlbo.github.io/missing-semester-cn-2026
+url: https://mlbo.github.io
+baseurl: /missing-semester-cn-2026
 solution_url: missing-notes-and-solutions/2020/solutions/
 # Settings
 markdown: kramdown
